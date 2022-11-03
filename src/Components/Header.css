@@ -1,0 +1,18 @@
+.header__component {
+    background-color: rgb(39, 38, 38);
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    color: white;
+}
+
+.header__component > h1 {
+    font-size: 3rem;
+}
+
+.header__component > p {
+    color: grey;
+}
